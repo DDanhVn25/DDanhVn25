@@ -48,20 +48,3 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.pinimg.com/736x/ad/cc/ab/adccab7ee431a525614166a7a191e7df.jpg"><img src="https://i.pinimg.com/736x/ad/cc/ab/adccab7ee431a525614166a7a191e7df.jpg" width="100%" data-canonical-src="https://i.pinimg.com/736x/ad/cc/ab/adccab7ee431a525614166a7a191e7df.jpg" style="max-width: 100%;"></a>
 </td>
 </tr>
-
-💻 Languages & Tools I've Built With
-I pick up new tech fast when it’s interesting — but these are the tools I reach for the most when I’m shipping real projects.
-
-Fullstack Dev - Fintech - AI - UI/UX - Designer
-<markdown-accessiblity-table data-catalyst=""><table width="100%" align="center">
-  <tbody><tr>
-    <td width="60%">
-      <div align="center" dir="auto">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1bf98f44718e54b1fc2ab30c6f2b62c605bdd9cad24866243e1e9fef2d645437/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6578746a732c6e6573746a732c6e7578746a732c7461696c77696e642c7675652c6e6f64656a732c707974686f6e2c63732c6370702c6a6176612c656c656374726f6e2c676f2c6c696e75782c6769742c646f636b65722c6b756265726e657465732c6d6f6e676f64622c706f7374677265732c72656469732c707269736d612c7375706162617365267468656d653d6461726b267065726c696e653d37"><img src="https://camo.githubusercontent.com/1bf98f44718e54b1fc2ab30c6f2b62c605bdd9cad24866243e1e9fef2d645437/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6578746a732c6e6573746a732c6e7578746a732c7461696c77696e642c7675652c6e6f64656a732c707974686f6e2c63732c6370702c6a6176612c656c656374726f6e2c676f2c6c696e75782c6769742c646f636b65722c6b756265726e657465732c6d6f6e676f64622c706f7374677265732c72656469732c707269736d612c7375706162617365267468656d653d6461726b267065726c696e653d37" data-canonical-src="https://skillicons.dev/icons?i=nextjs,nestjs,nuxtjs,tailwind,vue,nodejs,python,cs,cpp,java,electron,go,linux,git,docker,kubernetes,mongodb,postgres,redis,prisma,supabase&amp;theme=dark&amp;perline=7" style="max-width: 100%;"></a>
-      </div>
-    </td>
-    <td width="40%">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9dfe6f261c22a3a121bbb6a666be6ce5b4a932187c883b9b1a4ba770c01ff532/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6e6972757373766e30266c61796f75743d636f6d70616374267468656d653d68696768636f6e74726173742662675f636f6c6f723d304630463142267469746c655f636f6c6f723d30304536464626746578745f636f6c6f723d46464646464626686964655f626f726465723d74727565266c616e67735f636f756e743d38"><img src="https://camo.githubusercontent.com/9dfe6f261c22a3a121bbb6a666be6ce5b4a932187c883b9b1a4ba770c01ff532/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6e6972757373766e30266c61796f75743d636f6d70616374267468656d653d68696768636f6e74726173742662675f636f6c6f723d304630463142267469746c655f636f6c6f723d30304536464626746578745f636f6c6f723d46464646464626686964655f626f726465723d74727565266c616e67735f636f756e743d38" width="100%" alt="Top Languages" data-canonical-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nirussvn0&amp;layout=compact&amp;theme=highcontrast&amp;bg_color=0F0F1B&amp;title_color=00E6FF&amp;text_color=FFFFFF&amp;hide_border=true&amp;langs_count=8" style="max-width: 100%;"></a>
-    </td>
-  </tr>
-</tbody></table></markdown-accessiblity-table>
