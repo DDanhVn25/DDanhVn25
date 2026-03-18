@@ -18,7 +18,7 @@
 <li><b>Location:</b> Kim Lien - Nghe An - VN 🌐</li>
 <li><b>Role:</b> Degisner 💻 </li>
 <li><b>Mission:</b> Generate meaningful impact in life</li>
-<li><b>Daily:</b> Code Lỏ , Game-scripts, Play Chess , Coffee++ ☕</li>
+<li><b>Daily:</b> Code Lỏ , Game-scripts, Play Chess Coffee++ ☕</li>
 </ul>
 <br>
 <i>"Code with passion, design with purpose, chill with style"</i>
@@ -48,9 +48,11 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.pinimg.com/736x/ad/cc/ab/adccab7ee431a525614166a7a191e7df.jpg"><img src="https://i.pinimg.com/736x/ad/cc/ab/adccab7ee431a525614166a7a191e7df.jpg" width="100%" data-canonical-src="https://i.pinimg.com/736x/ad/cc/ab/adccab7ee431a525614166a7a191e7df.jpg" style="max-width: 100%;"></a>
 </td>
 </tr>
-<h2 class="heading-element" dir="auto">💻 Languages &amp; Tools I've Built With</h2>
-<a id="user-content--languages--tools-ive-built-with" class="anchor" aria-label="Permalink: 💻 Languages &amp; Tools I've Built With" href="#-languages--tools-ive-built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
-<h3 align="center" class="heading-element" dir="auto"> Designer- AI - UI/UX </h3>
+
+💻 Languages & Tools I've Built With
+I pick up new tech fast when it’s interesting — but these are the tools I reach for the most when I’m shipping real projects.
+
+Fullstack Dev - Fintech - AI - UI/UX - Designer
 <markdown-accessiblity-table data-catalyst=""><table width="100%" align="center">
   <tbody><tr>
     <td width="60%">
