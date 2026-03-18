@@ -18,7 +18,7 @@
 <li><b>Location:</b> Kim Lien - Nghe An - VN 🌐</li>
 <li><b>Role:</b> Degisner 💻 </li>
 <li><b>Mission:</b> Generate meaningful impact in life</li>
-<li><b>Daily:</b> Code Lỏ , Game-scripts, Play Chess Coffee++ ☕</li>
+<li><b>Daily:</b> Code Lỏ , Game-scripts, Play Chess , Coffee++ ☕</li>
 </ul>
 <br>
 <i>"Code with passion, design with purpose, chill with style"</i>
